@@ -1,4 +1,11 @@
-# mern-train
-A step-by-step MERN stack learning journey.   This repository documents my daily progress — from setup to building full MERN applications.
-this is my first file of github 
+# MERN Learning Project
+
+This repo is for my MERN stack learning journey 🚀
+
+## Day 1
+- Installed Node.js (LTS)
+- Installed VS Code
+- Installed Git
+- Created GitHub repo
+- Added README.md
 
