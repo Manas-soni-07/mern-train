@@ -8,4 +8,5 @@ This repo is for my MERN stack learning journey 🚀
 - Installed Git
 - Created GitHub repo
 - Added README.md
+hello
 
